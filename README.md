@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayapedro&label=Profile%20views&color=0e75b6&style=flat" alt="gayapedro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayapedro" alt="gayapedro" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayapedro&margin-w=20&title=Commit,Followers,Repositories" alt="gayapedro" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript**
-
-- 👨‍💻 All of my projects are available at [gayapedro.github.io](gayapedro.github.io)
 
 - 📫 How to reach me: **pedrogaya@gmail.com**
 
@@ -19,6 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<div style="background-color: white; width: 86%; padding-top: 5px; border-radius: 5px">
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -29,5 +28,6 @@
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gayapedro&show_icons=true&locale=en" alt="gayapedro" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayapedro&hide=prs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
