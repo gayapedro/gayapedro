@@ -1,4 +1,3 @@
-<link href="style. css" rel="stylesheet" />
 <h1 align="center">Hi 👋, I'm Pedro Gaya</h1>
 <h3 align="center">A Junior Full Stack Developer</h3>
 
