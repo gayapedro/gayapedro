@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Gaya</h1>
-<h3 align="center">A Junior Full Stack Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayapedro&label=Profile%20views&color=0e75b6&style=flat" alt="gayapedro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayapedro&margin-w=20&title=Commit,Followers,Repositories" alt="gayapedro" /></a> </p>
-
-- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me: **pedrogaya@gmail.com**
 
